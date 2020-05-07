@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 sudo su
 sudo yum update -y
 sudo yum install git -y
