@@ -6,7 +6,7 @@
             "instance_type": "t2.micro",
             "region": "us-east-2",
             "source_ami":"ami-0b436ab964c7b1842",
-            "ssh_username": "ec2-user",
+            "ssh_username": "ubuntu",
             "type": "amazon-ebs"
         }
     ],
